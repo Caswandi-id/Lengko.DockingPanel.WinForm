@@ -110,6 +110,9 @@ let explorer = new LengkoDockContent(new TreeView(Dock = DockStyle.Fill), "Solut
 explorer.Show(dockPanel, DockState.DockLeft)
 ```
 
+<img width="1249" height="727" alt="image" src="https://github.com/user-attachments/assets/f10e8688-6d51-49e2-89da-df44975a592f" />
+<img width="1251" height="733" alt="image" src="https://github.com/user-attachments/assets/5d92e73b-3a8d-472c-b335-f7196a4b629b" />
+
 ---
 
 ## License
