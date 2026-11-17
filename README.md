@@ -37,6 +37,44 @@ Dedicated solution: **`Lengko.DockingPanel.sln`** (builds all 3 demos alongside 
 
 ---
 
+## Installation (NuGet)
+
+[![NuGet](https://img.shields.io/nuget/v/Lengko.DockingPanel.WinForm.svg)](https://www.nuget.org/packages/Lengko.DockingPanel.WinForm)
+[![Downloads](https://img.shields.io/nuget/dt/Lengko.DockingPanel.WinForm.svg)](https://www.nuget.org/packages/Lengko.DockingPanel.WinForm)
+
+Package: [Lengko.DockingPanel.WinForm](https://www.nuget.org/packages/Lengko.DockingPanel.WinForm) on NuGet.org.
+
+### .NET CLI
+
+```powershell
+dotnet add package Lengko.DockingPanel.WinForm
+```
+
+### Package Manager Console (Visual Studio)
+
+```powershell
+Install-Package Lengko.DockingPanel.WinForm
+```
+
+### PackageReference (.csproj / .vbproj / .fsproj)
+
+```xml
+<ItemGroup>
+  <PackageReference Include="Lengko.DockingPanel.WinForm" Version="1.0.0" />
+</ItemGroup>
+```
+
+### Visual Studio GUI
+
+1. Right-click the project, then select **Manage NuGet Packages...**
+2. Open the **Browse** tab and search for `Lengko.DockingPanel.WinForm`.
+3. Click **Install**.
+
+Supported frameworks: `net472`, `net48`, `netcoreapp3.1`, `net5.0-windows` to `net10.0-windows`.
+
+---
+
+
 ## Quick Start / How to Run
 
 ### Via Visual Studio
